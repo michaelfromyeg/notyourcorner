@@ -1,0 +1,234 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "27",
+        "short_name": "27",
+        "types": ["premise"]
+      },
+      {
+        "long_name": "3",
+        "short_name": "3",
+        "types": ["sublocality_level_4", "sublocality", "political"]
+      },
+      {
+        "long_name": "1-chōme",
+        "short_name": "1-chōme",
+        "types": ["sublocality_level_3", "sublocality", "political"]
+      },
+      {
+        "long_name": "Miyajimaguchi",
+        "short_name": "Miyajimaguchi",
+        "types": ["sublocality_level_2", "sublocality", "political"]
+      },
+      {
+        "long_name": "Hatsukaichi",
+        "short_name": "Hatsukaichi",
+        "types": ["locality", "political"]
+      },
+      {
+        "long_name": "Hiroshima",
+        "short_name": "Hiroshima",
+        "types": ["administrative_area_level_1", "political"]
+      },
+      {
+        "long_name": "Japan",
+        "short_name": "JP",
+        "types": ["country", "political"]
+      },
+      {
+        "long_name": "739-0411",
+        "short_name": "739-0411",
+        "types": ["postal_code"]
+      }
+    ],
+    "adr_address": "\u003cspan class=\"street-address\"\u003e1-chōme-3-27 Miyajimaguchi, Hatsukaichi\u003c/span\u003e, \u003cspan class=\"region\"\u003eHiroshima\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e739-0411\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eJapan\u003c/span\u003e",
+    "business_status": "CLOSED_PERMANENTLY",
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "1-chōme-3-27 Miyajimaguchi, Hatsukaichi, Hiroshima 739-0411, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.3117205,
+        "lng": 132.3032004
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.3130342802915,
+          "lng": 132.3045982802915
+        },
+        "southwest": {
+          "lat": 34.3103363197085,
+          "lng": 132.3019003197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Bluebird Coffee Shop",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/108749174091679259882\"\u003eBluebird Coffee Shop\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWpXhdgj4345cqXj5Belv2JvAmPYGUjsF7pi-OwQGiqXlDNbpgO22V2UvarIUhCUqgNTFmfdWEkLwXU-gI53l3n6g_D0RWSIADgK_FmzjIOmAaurobpOuOuQeMjp777g9RmQ8umiU07IZhGq8f6-fuRdTw_vvSSeSBOaRN2FaQcIhnnb",
+        "width": 3264
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/102864322694192423360\"\u003eTanya\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWpQXrG9MyniZJu7Y0bFjHCambGU0YNF8qRvo6BEEAMM_2zbvYkvKg3a6P4yo5_K1EHr2xlsE2RkPy68MMtzOQ43DT_8Wandib3bmP2XkklZ9jhAnJJNZo3bTMiyNGIjzkL08cBxzC-KICg56EoqMyHgNkkaF0jPwr__-Y8lmdnlGAaT",
+        "width": 4032
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/115516978295886320105\"\u003ema ko\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWoQkeI2q7mFcAVOlcvIQWzwMLH8vqKWOpd8QowX1yUdrJbO3q0bLwAdctj4M-lFVaJtHR7vRqpn_Fp8M5hKA8bqQtk3YkQBKi3qyGVc53d-O3bWljCZwKXcJwwaVxmvO-HRmSDxy44P9sB0XwtFoRhPBbxy7Th-Uc-XLJ5aCSL0qsUd",
+        "width": 3468
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/105796338942563395221\"\u003e本郷蓮\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWqFCFMQ8GWKWQ8J7xME73KCeabx3OdnvirCQqmgaLeWwOsroFDqwbgJM87F6lGBp3MlfgckwsEzi4wn9vLBXWYeCkJVby_9UyOqW-h4TBq16u80FPLlYGCYy6tehuK18v4upocyqu_FqQPZ-2fQhlCT9BWUlgfwIYStbOH5fCDRjRcB",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106994671622594405798\"\u003e洋佐藤\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWoPIvhjBbiuJzX66uFs-llqUMywp5msv5wdoaaziiuBF6jKw5npXBGZJtdnrW5ZkAkfGZOaxXP0iDTIYjTNg2_AE5AECvWQUSROjVpmOIkkUDr6oxL4B6YOauPS5lddQbCBV7yRzjUdgEgH-fRKSlpcdxlGMPeL0NYTNBsypbwGVW18",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101284697794956723987\"\u003eらら\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWqRvED_MommZT3Isv5N2Eucqa6-Dq8yBvxxq3lTLLVGcDc7_fw5ytQVzho0dcMHKgHO-lgLICAtrosBEwPrWxdMDakMI6X-6coQKWn1iOhrz6ZG1RV_kYQyB4NOD0Muojci8UZxHuXipd1Vee2HVHHoF7xfdi4cYm2879qBjc1vxksI",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106994671622594405798\"\u003e洋佐藤\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWr8F5EBDB8rhmRUmasKDE1x-crKM86nHLJSQtjSm_kx7gGAhdRAtPdeW_CQ-_OKiUmHt2WHuJk7BY4pXRYr9Uvq86DhebMAHeKrjYGOAhTLFtfyOClf2SZQCXbi0vhnPJBxDuIj8CGyH5ra3FM_oN5I6xDlXc17voajp7bZUbEPu4D6",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101284697794956723987\"\u003eらら\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWp8J7TImUzgi_9cS1WWkv0wOk7wn_fYUG6ckIWdSoLLh-NG206TJAJ-hYl9_Qn3BpapqYz4k8D_X1tKkq8FeOI7t-46EANjQHnU4vz_iAklnYWI0Qdr83BhFQ4mV0OaO6qe9cOCjg_Q1ZcNsSat8lsPIy5XqXyY3cSmf7NcfndtV6so",
+        "width": 3024
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/107827515863290713971\"\u003etsuyo nakayama\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWrhJy-gNGGcej1AiME02UT4C7jymYvG8c3GqAVHa8pJIdN4J9J385iUQ9q2JzBwjqpPiwNCA6PbvmtwVB7wU6LsnME6dIRjuG9aqKmygshERD9-y2NPCwicSwxmfeDHTNr6gYb3XQLH_3X0_38UV0vnkpqJoTjXWV8j-CHyhHDB08KA",
+        "width": 4608
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/106994671622594405798\"\u003e洋佐藤\u003c/a\u003e"
+        ],
+        "photo_reference": "AdDdOWrXtb-rqBNLVpPgHt3S518CaJN5NXkCEPCafS432JZYJplIbt6rTAFQvLAkLpFv3JWRwmCT8wwJKOs0E2UHo1FmWg7bK922Sc-QRKGV42A66C0S8ZYB5ApZYSa7Z2zczCJwt6nCbQ7IBf2-iQK0vXDXe_icxEYmdv3XwdkWftPlt5SP",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5yso3Fq3WjURyfN7Ec9vX20",
+    "plus_code": {
+      "compound_code": "8863+M7 Hatsukaichi, Hiroshima, Japan",
+      "global_code": "8Q6J8863+M7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ5yso3Fq3WjURyfN7Ec9vX20",
+    "reviews": [
+      {
+        "author_name": "Jonathan Dempsey",
+        "author_url": "https://www.google.com/maps/contrib/107558746217854103157/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTYfuv2GNPzWBacamLK8VX17Pj1SrE5gEY-45_t7QiYDTSnDVhdQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 years ago",
+        "text": "Great little coffee shop that is a mish-mash of different nations\nCoffee is some of the best I've had in Japan... You can actually taste the coffee",
+        "time": 1475650244,
+        "translated": false
+      },
+      {
+        "author_name": "Tanya",
+        "author_url": "https://www.google.com/maps/contrib/102864322694192423360/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFYxRVLfkPH92CO43fMN9YxkAZyPERliex3I3VrfAwhJncUQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Excellent coffee. Cute shop. Very friendly owner! Stop here on your way to the Miyajima ferry for a delicious latte. Best I’ve had in Japan so far.",
+        "time": 1524056876,
+        "translated": false
+      },
+      {
+        "author_name": "Karen W",
+        "author_url": "https://www.google.com/maps/contrib/111959519052759410389/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOwBOjsE2LD4yxrf0dETE0FIamzBZNd3N3_IaXwHeYmfQ0Y6o=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Cute little coffee shop along the way to the ferry. Tried the hazelnut latte with soy milk, was delicious :) Typical coffee prices for the area.",
+        "time": 1540217236,
+        "translated": false
+      },
+      {
+        "author_name": "Derek Doan",
+        "author_url": "https://www.google.com/maps/contrib/118108512640503633905/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwsL2al-OXotPoWpUxMHHs8C5pKeJ0X5KITfRfVj1K4R-Helf-=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Very good coffee and the decor are so cute. Owner offered seats upstairs with amazing view",
+        "time": 1553578235,
+        "translated": false
+      },
+      {
+        "author_name": "katrin herzog",
+        "author_url": "https://www.google.com/maps/contrib/104221917952743144246/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8HJmXluTkcMWpGKa1ce6vYOo15goZR7A-FrIo9jh04utPS4X6Iw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "Loved this place. You walk into a very unique coffee bar with amazing interior and even better coffee. Honestly the best coffee I've had in almost 2 weeks travelling Japan.\nThe owner is super friendly and gave us fantastic recommendation plus refilled water bottle.\nWill definitely stop by when visiting the area again.",
+        "time": 1523262298,
+        "translated": false
+      }
+    ],
+    "serves_vegetarian_food": false,
+    "takeout": true,
+    "types": ["cafe", "food", "point_of_interest", "establishment"],
+    "url": "https://maps.google.com/?cid=7881140808063906761",
+    "user_ratings_total": 100,
+    "utc_offset": 540,
+    "vicinity": "1-chōme-3-27 Miyajimaguchi, Hatsukaichi",
+    "website": "https://www.instagram.com/p/Ckc5YKsu2VM/?utm_source=ig_web_copy_link",
+    "wheelchair_accessible_entrance": false
+  },
+  "status": "OK"
+}

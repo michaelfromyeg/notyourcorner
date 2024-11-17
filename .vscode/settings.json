@@ -1,0 +1,10 @@
+{
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  "python.analysis.extraPaths": ["./server"],
+  "cSpell.words": ["dotenv", "mdema", "notyourcorner", "papaparse"]
+}

@@ -1,0 +1,69 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Marina Boulevard",
+          "short_name": "Marina Blvd",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Fort Mason",
+          "short_name": "Fort Mason",
+          "types": ["neighborhood", "political"]
+        },
+        {
+          "long_name": "San Francisco",
+          "short_name": "SF",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "San Francisco County",
+          "short_name": "San Francisco County",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "California",
+          "short_name": "CA",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "94109",
+          "short_name": "94109",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "Marina Blvd, San Francisco, CA 94109, USA",
+      "geometry": {
+        "location": {
+          "lat": 37.8061452,
+          "lng": -122.4312971
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 37.80744033029149,
+            "lng": -122.4302791197085
+          },
+          "southwest": {
+            "lat": 37.8047423697085,
+            "lng": -122.4329770802915
+          }
+        }
+      },
+      "partial_match": true,
+      "place_id": "ChIJzQPIbdiAhYARfe5xrjO_Bj8",
+      "plus_code": {
+        "compound_code": "RH49+FF Fort Mason, San Francisco, CA",
+        "global_code": "849VRH49+FF"
+      },
+      "types": ["establishment", "point_of_interest"]
+    }
+  ],
+  "status": "OK"
+}
